@@ -15,14 +15,5 @@ cd <папка-проекта>
 npm install
 npm run dev
 ```
-
-Открой в браузере: [http://127.0.0.1:43123](http://127.0.0.1:43123)
-
-С телефона в той же Wi‑Fi сети: `http://<IP-твоего-ПК>:43123`  
-(геолокация и камера лучше работают на `localhost` или по HTTPS)
-
-Ключи Яндекса **не нужны**.
-
 ## Стек
-
 Next.js, TypeScript, Tailwind, shadcn/ui, Leaflet, 2ГИС tiles, MarkerCluster.
